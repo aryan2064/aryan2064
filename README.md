@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀Aspiring Software Engineer<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN<br>📌 Always open to collaboration & new challenges!  <br>🚀 Check out my projects and feel free to connect.  
+Software Engineer  
 
 
 ## 🌐 Socials:
